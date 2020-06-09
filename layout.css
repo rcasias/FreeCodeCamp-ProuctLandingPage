@@ -1,0 +1,30 @@
+.l-grid-3col{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.l-display-flex{
+    display: flex;
+}
+.l-display-flex-col{
+    display: flex;
+    flex-direction: column;
+}
+.l-wrapper-full{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+}
+.l-wrapper-centered{
+    max-width: 900px;
+    margin: auto;
+}
+.l-push-right{
+    margin-left: auto;
+    text-align: right;
+}
+.l-align-center{
+    margin: auto;
+}
+.l-push-center{
+    text-align: center;
+}

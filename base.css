@@ -1,0 +1,27 @@
+body{
+    font-family: 'lato', sans-serif;
+    background-color: #eee;
+    margin: 0px;
+}
+li{
+    list-style: none;
+    line-height: 28px;
+}
+ul{
+    padding: 0px;
+    margin: 0px;
+}
+a{
+    font-weight: normal;
+    margin: 10px;
+    cursor: pointer;
+}
+h5{
+    margin: 0px;
+    font-weight: normal ;
+}
+input{
+    line-height: 25px;
+    width: 300px;
+}
+
